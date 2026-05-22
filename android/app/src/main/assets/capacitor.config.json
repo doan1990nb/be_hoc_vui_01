@@ -1,0 +1,18 @@
+{
+	"appId": "com.behocvui.app",
+	"appName": "Bé Học Vui",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "https",
+		"allowNavigation": [],
+		"cleartextTraffic": false
+	},
+	"android": {
+		"allowMixedContent": false,
+		"captureInput": false,
+		"webContentsDebuggingEnabled": false,
+		"backgroundColor": "#667eea"
+	},
+	"plugins": {}
+}
